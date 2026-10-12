@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**IsaDScmd/IsaDScmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! I'm Isabel 👋
 
-Here are some ideas to get you started:
+### Quality Professional | Automotive Electronics | Full Stack Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a quality professional working in the automotive electronics industry, with a background in laboratory analysis and Full Stack Web Development.
+
+I'm passionate about technology, problem-solving, continuous improvement and building web applications.
+
+## 💻 Tech Stack
+
+**Frontend:** JavaScript · HTML5 · CSS3 · React · Tailwind CSS
+
+**Backend:** Node.js · Express.js · MongoDB
+
+**Tools:** Git · GitHub · VS Code · Postman
+
+## 🚀 Featured Projects
+
+### [Maketics Shop](https://github.com/IsaDScmd/Fullstack-MERN-E-Commerce-Store)
+Full Stack e-commerce application developed with the MERN stack.
+
+### [Flowly](https://github.com/IsaDScmd/flowly)
+Task management web application inspired by Trello, currently under development.
+
+## 🎯 Currently Focusing On
+
+- Improving my software development skills.
+- Exploring the connection between industrial quality and technology.
+- Developing and deploying my personal projects.

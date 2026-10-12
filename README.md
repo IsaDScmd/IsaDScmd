@@ -37,13 +37,17 @@ I'm passionate about technology, problem-solving, continuous improvement and bui
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" alt="Postman"/>
 </p>
 
+
 ## 🚀 Featured Projects
 
-### [Maketics Shop](https://github.com/IsaDScmd/Fullstack-MERN-E-Commerce-Store)
-Full Stack e-commerce application developed with the MERN stack.
+<a href="https://github.com/IsaDScmd/Fullstack-MERN-E-Commerce-Store">
+  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=IsaDScmd&repo=Fullstack-MERN-E-Commerce-Store&theme=tokyonight" alt="Maketics Shop"/>
+</a>
 
-### [Flowly](https://github.com/IsaDScmd/flowly)
-Task management web application inspired by Trello, currently under development.
+<a href="https://github.com/IsaDScmd/flowly">
+  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=IsaDScmd&repo=flowly&theme=tokyonight" alt="Flowly"/>
+</a>
+
 
 ## 🎯 Currently Focusing On
 

@@ -41,7 +41,7 @@ I'm passionate about technology, problem-solving, continuous improvement and bui
 ## 🚀 Featured Projects
 
 <a href="https://github.com/IsaDScmd/Maketics-Shop">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=IsaDScmd&repo=Maketics-Shop&theme=tokyonight" alt="Maketics Shop"/>
+  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=IsaDScmd&repo=Maketics-Shop&theme=tokyonight&cache_seconds=86400" alt="Maketics Shop"/>
 </a>
 
 <a href="https://github.com/IsaDScmd/flowly">

@@ -54,3 +54,11 @@ I'm passionate about technology, problem-solving, continuous improvement and bui
 - Improving my software development skills.
 - Exploring the connection between industrial quality and technology.
 - Developing and deploying my personal projects.
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IsaDScmd&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaDScmd&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Most used languages"/>
+</p>
